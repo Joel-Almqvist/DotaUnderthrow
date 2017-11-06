@@ -1,0 +1,985 @@
+
+// Dota Abilities Override File
+"DOTAAbilities"
+{
+	"Version"		"1"
+	
+	//=================================================================================================================
+	// Special Item Drops
+	//=================================================================================================================
+	"item_urn_of_shadows"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_ring_of_aquila"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_phase_boots"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_power_treads"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_blink"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_force_staff"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_cyclone"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_ghost"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_mask_of_madness"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_medallion_of_courage"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_soul_ring"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_blade_mail"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_dagon"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_shivas_guard"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_vanguard"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_sphere"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_vladmir"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_yasha"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_diffusal_blade"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_helm_of_the_dominator"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_mekansm"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_hood_of_defiance"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_veil_of_discord"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_basher"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_invis_sword"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_desolator"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_ultimate_scepter"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_dagon_5"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_greater_crit"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_sheepstick"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_manta"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_heart"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_mjollnir"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_bfury"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_pipe"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_heavens_halberd"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_crimson_guard"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_black_king_bar"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_bloodstone"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_ethereal_blade"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_radiance"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_abyssal_blade"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_butterfly"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_monkey_king_bar"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_rapier"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_glimmer_cape"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_lotus_orb"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_guardian_greaves"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_moon_shard"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_solar_crest"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_silver_edge"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	"item_octarine_core"
+	{
+		"ItemShareability"				"ITEM_FULLY_SHAREABLE"
+	}
+	//=================================================================================================================
+	// Remove Dagon
+	//=================================================================================================================
+	"item_dagon"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_dagon_1"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_dagon_2"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_dagon_3"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_dagon_4"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_dagon_5"
+	{
+		"ItemPurchasable"				"0"
+	}
+	"item_recipe_dagon"
+	{
+		"ItemPurchasable"				"0"
+	}
+	//=================================================================================================================
+	// Sentry Ward
+	//=================================================================================================================
+	"item_ward_sentry"
+	{
+		"ItemCost"						"120"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"lifetime"				"500"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"vision_range"			"0"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"true_sight_range"		"850"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"health"				"200"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"duration_minutes_tooltip"				"6"
+			}
+		}
+	}
+	//=================================================================================================================
+	// Dust
+	//=================================================================================================================
+	"item_dust"
+	{
+		"AbilityCooldown"				"15.0"
+		"ItemCost"						"90"
+	}
+	//=================================================================================================================
+	// Silencer: Glaives of Wisdom
+	//=================================================================================================================
+	"silencer_glaives_of_wisdom"
+	{
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"intellect_damage_pct"	"15 25 35 45"
+			}
+			"02"
+			{
+				"var_type"			"FIELD_INTEGER"
+				"steal_range"		"450"
+			}
+		}
+	}
+
+	"tiny_toss"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityTextureName"			"custom_icon/frisbee"
+		"AbilitySound"					"customsounds/vemvare"
+		
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"3500"
+		"AbilityCastPoint"				"0.0 0.0 0.0 0.0"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"8"
+
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"90 100 110 120"
+
+		// Stats
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityModifierSupportValue"	"0.25"	// generally used for damage only
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"duration"				"1.3"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"grab_radius"			"275"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"radius"				"275"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_damage_pct"		"20 20 20 20"
+			}
+			"05"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"grow_bonus_damage_pct"		"35 50 65 80"
+			}
+			"06"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"tooltip_range"				"3500"
+			}
+			"07"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"toss_damage"				"75 150 225 322"
+			}
+		}
+	}
+
+	"dark_seer_ion_shell"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		
+		"AbilitySound"					"customsounds/vemvare"
+
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"600"
+		"AbilityCastPoint"				"0.4 0.4 0.4 0.4"
+		
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"9"
+		
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"100 110 120 130"
+
+		// Stats
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityModifierSupportValue"	"0.0"	// just does damage
+			
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"radius"				"250"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"damage_per_second"		"30 50 70 90"
+				"LinkedSpecialBonus"	"special_bonus_unique_dark_seer"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"duration"				"25"
+			}
+		}
+	}
+	//=================================================================================================================
+	// Ability: Necrolyte's Reaper's Scythe
+	//=================================================================================================================
+	"necrolyte_reapers_scythe"
+	{
+		"AbilitySpecial"
+		{
+			"07"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"respawn_constant"		"20"
+			}
+		}
+	}
+	//=================================================================================================================
+	// Zuus: Thundergod's Wrath
+	//=================================================================================================================
+	"zuus_thundergods_wrath"
+	{
+		"AbilityCooldown"				"120.0"
+		"AbilityManaCost"				"250 375 500"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"true_sight_radius"		"900 900 900"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"true_sight_radius_tooltip"		"500"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"sight_radius_day"		"500"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"sight_radius_night"	"500"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"sight_duration"		"3.0 3.0 3.0 3.0"
+			}
+			"06"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"damage"				"200 300 400"
+			}
+			"07"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"damage_scepter"		"350 450 550"
+			}
+		}
+	}
+	//=================================================================================================================
+	// Riki: Blink Strike
+	//=================================================================================================================
+	"riki_blink_strike"
+	{
+		"AbilityCastRange"				"400"
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"tooltip_range"					"350"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"bonus_damage"					"10 20 30 40"
+			}
+		}
+	}
+
+	"pudge_meat_hook"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_YES"
+		"HasScepterUpgrade"				"1"
+		"AbilityTextureName"			"custom_icon/hook"
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"2000 2400 2800 3200"
+		"AbilityCastPoint"				"0.3 0.3 0.3 0.3"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"14 13 12 11"
+
+		// Damage.
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityDamage"					"90 180 270 360"
+
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"110 120 130 140"
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"hook_speed"			"1850.0"
+			}
+			"02"
+			{
+				"var_type"			"FIELD_INTEGER"
+				"hook_width"		"100"
+			}
+			"03"
+			{
+				"var_type"			"FIELD_INTEGER"
+				"hook_distance"		"2000 2400 2800 3200"
+			}
+			"04"
+			{
+				"var_type"			"FIELD_INTEGER"
+				"vision_radius"		"500 500 500 500"
+			}
+			"05"
+			{
+				"var_type"			"FIELD_FLOAT"
+				"vision_duration"	"4.0 4.0 4.0 4.0"
+			}
+			"06"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"cooldown_scepter"		"6.0"
+			}
+			"07"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"damage_scepter"		"400 600 800 1000"
+			}
+		}
+	}
+
+	"monkey_king_tree_dance"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		
+		"AbilitySound"					"Hero_MonkeyKing.TreeJump.Cast"
+		"AbilityTextureName"			"custom_icon/jumpman"
+
+		"FightRecapLevel"				"1"
+
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"1500"
+		"AbilityCastPoint"				"0.3"
+
+		// Time
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"0"
+
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"0"
+		
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"leap_speed"				"700"
+			}
+			"02" // this should belong to Spring ability but for how it gets called it's simpler to have Tree Jump own it
+			{
+				"var_type"					"FIELD_INTEGER"
+				"spring_leap_speed"			"1300"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"give_up_distance"			"1850"
+			}
+			"04"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"ground_jump_distance"		"1000"
+			}
+			"05"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"perched_jump_distance"		"1000"
+			}
+			"06"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"jump_damage_cooldown"		"3.0"
+			}
+			"07"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"perched_day_vision"			"800"
+			}
+			"08"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"perched_night_vision"			"400"
+			}
+			"09"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"perched_spot_height"		"192.0"
+			}
+			"10"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"unperched_stunned_duration"	"4.0"
+			}
+			"11"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"top_level_height"			"500"
+			}
+			"12"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"impact_damage_tooltip"		"140 210 280 350"
+			}
+			"13"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"impact_movement_slow_tooltip"	"20 40 60 80"
+			}
+		}
+	}
+
+	"spirit_breaker_charge_of_darkness"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_YES"
+		"AbilitySound"					"Hero_Spirit_Breaker.ChargeOfDarkness"
+		"AbilityTextureName"			"custom_icon/charge"
+
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastPoint"				"0.0 0.0 0.0 0.0"
+		"AbilityCastRange"				"0"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"14"
+
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"100 100 100 100"
+
+		// Stats
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityModifierSupportValue"	".30" // applies multiple modifiers
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"movement_speed"		"650 800 900 1100"
+				"LinkedSpecialBonus"	"special_bonus_unique_spirit_breaker_2"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"stun_duration"			"1.2 1.6 2.0 2.4"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bash_radius"			"300 300 300 300"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"vision_radius"			"400 400 400 400"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"vision_duration"		"0.94 0.94 0.94 0.94"
+			}
+		}
+	}
+
+	"axe_counter_helix"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySound"					"Hero_Axe.CounterHelix"
+		"AbilityTextureName"			"custom_icon/Snurra"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"0.2 0.14 0.10 0.05"
+		
+		// Damage.
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityDamage"					"100 120 140 160"
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"radius"					"300"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"trigger_chance"			"80"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"cooldown"					"0.2 0.14 0.10 0.05"
+			}
+		}
+	}
+
+	"spirit_breaker_greater_bash"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
+		"SpellDispellableType"			"SPELL_DISPELLABLE_YES_STRONG"
+		"AbilitySound"					"Hero_Spirit_Breaker.GreaterBash"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"1.5 1.5 1.5 1.5"
+
+		// Stats
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityModifierSupportBonus"	"40"
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"chance_pct"			"5 8 9 15"
+				"LinkedSpecialBonus"	"special_bonus_unique_spirit_breaker_1"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"damage"				"12 24 36 48"
+				"LinkedSpecialBonus"	"special_bonus_unique_spirit_breaker_3"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"duration"				"1.0 1.2 1.4 1.6"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"knockback_duration"	"0.5 0.5 0.5 0.5"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"knockback_distance"	"900 1100 1400 1600"
+			}
+			"06"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"knockback_height"		"50 100 150 200"
+			}
+			"07"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"bonus_movespeed_pct"	"15 15 15 15"
+			}
+			"08"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"movespeed_duration"	"3.0 3.0 3.0 3.0"
+			}
+		}
+	}
+
+	"sniper_take_aim"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"					"5156"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"bonus_attack_range"			"300 500 600 800"
+			}
+		}
+	}
+
+	"meepo_divided_we_stand"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"LevelsBetweenUpgrades"		"7"
+		"RequiredLevel"				"3"
+
+		"HasScepterUpgrade"			"1"
+			
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"tooltip_clones"		"2 3 4"
+			}
+			"02"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"tooltip_share_percentage"		"20"
+			}
+			"03"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"tooltip_share_percentage_scepter"		"100"
+			}
+			"04"
+			{
+				"var_type"				"FIELD_FLOAT"
+				"respawn"		"0.0"
+			}
+			"05"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"tooltip_respawn"		"20"
+			}
+		}
+	}
+
+	"gyrocopter_homing_missile"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"							"5362"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_BACKSWING"
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
+		"SpellDispellableType"			"SPELL_DISPELLABLE_YES_STRONG"
+		"FightRecapLevel"				"1"
+
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"1500"
+		"AbilityCastPoint"				"0"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"20 17 14 11"
+		
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"120 130 140 150"
+
+		// Damage.
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityDamage"					"100 175 250 325"
+		
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"hits_to_kill_tooltip"		"4 4 4 4"
+			}
+			"02"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"tower_hits_to_kill_tooltip"		"6 6 8 10"
+			}
+			"03"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"stun_duration"				"2.25 2.5 2.75 3.0"
+			}
+			"04"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"attack_speed_bonus_pct"	"400 400 400 400"
+			}
+			"05"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"min_damage"				"50"
+			}
+			"06"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"max_distance"				"1500"
+			}
+			"07"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"pre_flight_time"			"3"
+			}
+			"08"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"hero_damage"				"34 34 26 21"
+			}
+			"09"
+			{
+				"var_type"					"FIELD_FLOAT"
+				"speed"						"450"
+			}
+			"10"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"acceleration"				"40"
+			}
+			"11"
+			{
+				"var_type"					"FIELD_INTEGER"
+				"enemy_vision_time"			"4"
+			}	
+			"12"
+			{
+				"var_type"				"FIELD_INTEGER"
+				"charge_restore_time"	"20 17 14 11"
+			}
+		}
+	}
+
+}
+	

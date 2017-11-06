@@ -1,0 +1,218 @@
+// Dota Heroes File
+// NOTE: This is not for creating new heroes, this is for taking a currently existing hero as a template and overriding
+// the specified key-value combinations.  Use override_hero <hero_to_override> for this.
+"DOTAHeroes"
+{
+
+//=======================================================================================================
+// HERO : "AMIN" : PUDGE
+//=======================================================================================================
+
+	"npc_dota_hero_pudge"
+	{
+		"override_hero"				"npc_dota_hero_pudge"
+		
+//=======================================================================================================
+// STATS : PUDGE
+//=======================================================================================================
+		
+		"ArmorPhysical"                "4"
+		"MagicalResistance"            "24"
+		"AttackDamageMin"            "60"       // Damage range min.
+		"AttackDamageMax"            "70"       // Damage range max.
+		"AttackRate"                 "1.5"     // Speed of attack.
+		"AttackAnimationPoint"       "0.75"    // Normalized time in animation cycle to attack.
+		"AttackAcquisitionRange"     "800"     // Range within a target can be acquired.
+		"AttackRange"                "250"     // Range within a target can be attacked.
+		"AttackRangeBuffer"          "320"     // Extra range the target can move without canceling the attack
+
+		"MovementSpeed"               "290"       // Speed
+		"MovementTurnRate"            "4.2"       // Turning rate.
+
+
+		"Ability1"					 "spirit_breaker_charge_of_darkness"	
+		"Ability2"					 "pudge_meat_hook"					
+		"Ability3" 					 "axe_counter_helix"
+		"Ability4"					 "dg_dagger"
+
+
+		"DisableWearables"				"0"
+
+		"StatusHealth"                "690"       // Base health.
+		"StatusHealthRegen"           "6"         // Health regeneration rate.
+		"StatusMana"                  "350"         // Base mana.
+		"StatusManaRegen"             "4"         // Mana regeneration rate.
+	}	
+
+
+
+//=======================================================================================================
+// HERO : "VOID" : HUSKAR
+//=======================================================================================================
+	"npc_dota_hero_huskar"
+	{
+
+		"override_hero"				"npc_dota_hero_huskar"
+		"Model"						"models/heroes/enigma/eidelon.vmdl"
+		"MinimapIcon"				"npc_dota_hero_enigma"
+		"ModelScale"				"1.6"
+		"SoundSet"					"Hero_Leshrac"
+		"VoiceFile"					"soundevents/voscripts/game_sounds_vo_leshrac.vsndevts"
+
+
+//=======================================================================================================
+// AUTO ATTACK : HUSKAR
+//=======================================================================================================
+		"ProjectileModel"            "particles/units/heroes/hero_invoker/invoker_forged_spirit_projectile.vpcf"
+        "ProjectileSpeed"            "600"
+
+        "AttackDamageMin"            "55"       // Damage range min.
+		"AttackDamageMax"            "80"       // Damage range max.
+		"AttackRate"                 "1.9"     // Speed of attack.
+		"AttackAnimationPoint"       "0.6"    // Normalized time in animation cycle to attack.
+		"AttackAcquisitionRange"     "800"     // Range within a target can be acquired.
+		"AttackRange"                "900"     // Range within a target can be attacked.
+		"AttackRangeBuffer"          "250"     // Extra range the target can move without canceling the attack
+
+//=======================================================================================================
+// SPELLS : HUSKAR
+//=======================================================================================================
+
+		"Ability1" "faceless_void_time_walk" 	
+		"Ability2" "sandking_burrowstrike"					
+		"Ability3" "disruptor_glimpse"
+		"Ability4" "monkey_king_wukongs_command"
+
+		"DisableWearables"				"1"
+
+	}
+
+
+//=======================================================================================================
+// HERO : "SCHNIGER" : SNIPER
+//=======================================================================================================
+	"npc_dota_hero_sniper"
+	{
+		"override_hero"				"npc_dota_hero_sniper"
+		"ModelScale"				"0.4"
+
+
+		"AttackDamageMin"            "1"       // Damage range min.
+		"AttackDamageMax"            "2"       // Damage range max.
+		"AttackRate"                 "0.4"     // Speed of attack.
+		"AttackAnimationPoint"       "0.0004"    // Normalized time in animation cycle to attack.
+		"AttackAcquisitionRange"     "400"     // Range within a target can be acquired.
+		"AttackRange"                "300"     // Range within a target can be attacked.
+		"AttackRangeBuffer"          "250"     // Extra range the target can move without canceling the attack
+
+
+//=======================================================================================================
+// SPELLS : SNIPER
+//=======================================================================================================
+
+
+		"Ability1"					"spirit_breaker_greater_bash" 		
+		"Ability2" 					"huskar_berserkers_blood"					
+		"Ability3" 					"enchantress_untouchable"
+		"Ability4" 					"monkey_king_tree_dance"
+	}	
+
+	//=======================================================================================================
+	// HERO : "Greevil" : LINA
+	//=======================================================================================================
+	"npc_dota_hero_lina"
+	{
+		"override_hero"				"npc_dota_hero_lina"
+		"Model"						"models/courier/greevil/greevil.vmdl"
+		"ProjectileModel"           "particles/units/heroes/hero_shadow_demon/shadow_demon_base_attack.vpcf"
+		"DisableWearables"			"1"
+		"SoundSet"		"Hero_ChaosKnight"
+		"VoiceFile"		"soundevents/voscripts/game_sounds_vo_chaos_knight.vsndevts"
+
+		"AttackDamageMin"            "50"       // Damage range min.
+		"AttackDamageMax"            "60"       // Damage range max.
+		"AttackRate"                 "1.5"     // Speed of attack.
+		"AttackAnimationPoint"       "0.55"    // Normalized time in animation cycle to attack.
+		"AttackAcquisitionRange"     "800"     // Range within a target can be acquired.
+		"AttackRange"                "600"     // Range within a target can be attacked.
+		"AttackRangeBuffer"          "250"     // Extra range the target can move without canceling the attack
+
+
+	//=======================================================================================================
+	// SPELLS : LINA
+	//=======================================================================================================
+
+
+		"Ability1"					"sniper_take_aim" 		
+		"Ability2" 					"gyrocopter_homing_missile"					
+		"Ability3" 					"rubick_fade_bolt"
+		"Ability4" 					"meepo_divided_we_stand"
+
+	}	
+
+	//=======================================================================================================
+	// HERO : "JOEL" : INVOKER
+	//=======================================================================================================
+
+	"npc_dota_hero_invoker"
+	{
+		"override_hero"				"npc_dota_hero_invoker"
+		"DisableWearables"			"1"
+		
+		"AttackDamageMin"            "50"       // Damage range min.
+		"AttackDamageMax"            "60"       // Damage range max.
+		"AttackRate"                 "1.5"     // Speed of attack.
+		"AttackAnimationPoint"       "0.55"    // Normalized time in animation cycle to attack.
+		"AttackAcquisitionRange"     "800"     // Range within a target can be acquired.
+		"AttackRange"                "600"     // Range within a target can be attacked.
+		"AttackRangeBuffer"          "250"     // Extra range the target can move without canceling the attack
+
+
+	//=======================================================================================================
+	// SPELLS : INVOKER
+	//=======================================================================================================
+
+
+		"Ability1"					"lina_dragon_slave" 		
+		"Ability2" 					"windrunner_powershot"					
+		"Ability3" 					"crystal_maiden_brilliance_aura"
+		"Ability4" 					"zuus_thundergods_wrath"
+	}	
+
+	//=======================================================================================================
+	// HERO : "ROSHAN" : Bristleback
+	//=======================================================================================================
+
+	"npc_dota_hero_bristleback"
+	{
+		"override_hero"				"npc_dota_hero_bristleback"
+		"Model"						"models/creeps/roshan/roshan.vmdl"
+		"ModelScale"				"0.8"
+		"DisableWearables"			"1"
+		"SoundSet"					"Roshan"
+		"VoiceFile"					"soundevents/voscripts/game_sounds_vo_treant.vsndevts"
+		
+		"AttackDamageMin"            "50"       // Damage range min.
+		"AttackDamageMax"            "60"       // Damage range max.
+		"AttackRate"                 "1.5"     // Speed of attack.
+		"AttackAnimationPoint"       "0.55"    // Normalized time in animation cycle to attack.
+		"AttackAcquisitionRange"     "800"     // Range within a target can be acquired.
+		"AttackRange"                "210"     // Range within a target can be attacked.
+		"AttackRangeBuffer"          "250"     // Extra range the target can move without canceling the attack
+
+		"StatusMana"                  "500"         // Base mana.
+		"StatusManaRegen"             "3"         // Mana regeneration rate.
+
+
+	//=======================================================================================================
+	// SPELLS : BRISTLEBACK
+	//=======================================================================================================
+
+
+		"Ability1"					"tiny_toss" 		
+		"Ability2" 					"ogre_magi_bloodlust"					
+		"Ability3" 					"dark_seer_ion_shell"
+		"Ability4" 					"wisp_relocate"
+	}	
+
+}
